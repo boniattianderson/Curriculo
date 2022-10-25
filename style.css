@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(120deg, #4c79d3 44.9%, #ffffff 45%) no-repeat fixed;
+    font: 16px Arial Helvetica, sans-serif;
+}
+.thumbnail{
+    border-radius: 50%;
+    width: 100px;
+    position: right;
+    padding-left: 10px;
+    text-decoration:underline;
+}
+
+#capa{
+    width: 900px;
+}
+
+#menu {
+	background:#4c6bf1;
+	padding: 5px;
+}
+
+a {
+	color: #0a31e0;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+#formaçoesprof{
+    text-decoration: underline;
+}
