@@ -8,15 +8,21 @@ body{
     position: right;
     padding-left: 10px;
     text-decoration:underline;
+    margin: 0.5rem;
 }
 
-#capa{
-    width: 900px;
+#conteudo{
+    margin: 0.5rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background: rgba(255,255,255,0.3);
 }
 
 #menu {
-	background:#4c6bf1;
-	padding: 5px;
+    background: #4c6bf1;
+    padding: 5px;
+    box-shadow: rgb(99 99 156 / 70%) 8px 2px 8px 2px;
+    margin-bottom: 1rem;
 }
 
 a {
